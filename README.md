@@ -7,7 +7,7 @@ CA: SnPUHBKyr9SEc7tXmiiGRcEUChrbTcPGarQzWg2pump
 <div align="center">
 <img src="/public/assets/preview.png" alt="Heliotrope Preview" width="800px"/>
 
-[![Twitter](https://img.shields.io/twitter/follow/heliotrope_ai?style=social)](https://x.com/heliotrope_ai)
+[![Twitter](https://x.com/heliotropeai/header_photo)
 </div>
 
 ## 🚀 Overview
