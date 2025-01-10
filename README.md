@@ -7,7 +7,7 @@ CA: SnPUHBKyr9SEc7tXmiiGRcEUChrbTcPGarQzWg2pump
 <div align="center">
 <img src="/public/assets/preview.png" alt="Heliotrope Preview" width="800px"/>
 
-[![Twitter](https://x.com/heliotrope_ai/header_photo)
+[![Twitter](https://github.com/Heliotrope-AI/Heliotrope/blob/main/heliotropebanner.jpg)
 </div>
 
 ## 🚀 Overview
